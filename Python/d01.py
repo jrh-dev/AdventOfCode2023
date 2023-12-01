@@ -3,8 +3,8 @@ import re
 
 def parsey(string: str, mappings: dict) -> str:
     """
-    Parse a string replacing numbers as words whilst corresponding
-    digits whilst keeping existing digits.
+    Parse a string replacing numbers as words with corresponding
+    digits whilst keeping existing digits. Allows overlaps of words.
     """
     parse = ""
     for i in range(len(string)):
