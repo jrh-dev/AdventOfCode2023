@@ -7,7 +7,7 @@ Total :star:'s = ***0***
 | Puzzle | Python | R |
 |--------|--------|---|
 | Day 1 | :star::star: |  |
-| Day 2 |  |  |
+| Day 2 | :star::star: |  |
 | Day 3 |  |  |
 | Day 4 |  |  |
 | Day 5 |  |  |
