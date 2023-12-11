@@ -1,6 +1,10 @@
 # Advent Of Code 2023 - Solutions
 [Advent of Code](https://adventofcode.com/) is a series of programming puzzles released in December each year that can be solved in any programming language. Correctly solving all of the puzzles earns 50 stars.
 
+*Updates:*
+
+*11th Dec 2023: A bit behind having moved house, lets see how far back on track I can get. Haven't even thought about writing these in R yet!*
+
 ## Current Stars Earned
 Total :star:'s = ***0***
 
@@ -9,7 +13,7 @@ Total :star:'s = ***0***
 | Day 1 | :star::star: |  |
 | Day 2 | :star::star: |  |
 | Day 3 | :star::star: |  |
-| Day 4 |  |  |
+| Day 4 | :star::star: |  |
 | Day 5 |  |  |
 | Day 6 |  |  |
 | Day 7 |  |  |
