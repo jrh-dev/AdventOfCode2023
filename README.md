@@ -14,7 +14,7 @@ Total :star:'s = ***0***
 | Day 2 | :star::star: |  |
 | Day 3 | :star::star: |  |
 | Day 4 | :star::star: |  |
-| Day 5 |  |  |
+| Day 5 | :star::star: |  |
 | Day 6 |  |  |
 | Day 7 |  |  |
 | Day 8 |  |  |
