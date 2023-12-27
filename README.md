@@ -6,7 +6,7 @@
 *11th Dec 2023: A bit behind having moved house, lets see how far back on track I can get. Haven't even thought about writing these in R yet!*
 
 ## Current Stars Earned
-Total :star:'s = ***0***
+Total :star:'s = ***16***
 
 | Puzzle | Python | R |
 |--------|--------|---|
@@ -17,7 +17,7 @@ Total :star:'s = ***0***
 | Day 5 | :star::star: |  |
 | Day 6 | :star::star: |  |
 | Day 7 | :star::star: |  |
-| Day 8 |  |  |
+| Day 8 | :star::star: |  |
 | Day 9 |  |  |
 | Day 10 |  |  |
 | Day 11 |  |  |
